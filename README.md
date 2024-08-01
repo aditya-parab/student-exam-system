@@ -86,7 +86,7 @@ The project utilizes the following technologies:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/aditya-parab/student-exam-system.git)
+   git clone https://github.com/aditya-parab/student-exam-system.git
    ```
 2. Navigate to the project directory:
    ```bash
