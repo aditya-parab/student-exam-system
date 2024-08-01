@@ -26,10 +26,10 @@ The project utilizes the following technologies:
 
 ### Controllers
 
-- **ExamApiController**: Handles API requests related to exams.
+- **ExamApiController**: Handles REST API requests related to exams.
 - **ExamController**: Manages the flow of exam-related web pages.
 - **MainController**: Handles the main navigation and welcome page.
-- **StudentApiController**: Manages API requests related to student data.
+- **StudentApiController**: Manages REST API requests related to student data.
 
 ### Entities
 
@@ -63,11 +63,11 @@ The project utilizes the following technologies:
 - **studentdetails.jsp**: Page displaying student details.
 - **welcome.jsp**: Welcome and main navigation page.
 
-## Overall Logic
+##  Logic
 
 1. **User Interaction**: Users (administrators and students) interact with the system through a web interface.
 2. **Exam Management**: Administrators can create and manage exams, including questions and options, through the provided web pages.
-3. **Taking Exams**: Students log in and select an exam to take. Their responses are recorded and stored in the database using Hibernate ORM.
+3. **Taking Exams**: Students log in and select an exam to take. Their responses are recorded and stored in the MySQL database using Hibernate ORM.
 4. **Result Generation**: The system evaluates student responses and generates results, which can be viewed by both students and administrators.
 
 ## Getting Started
