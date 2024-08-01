@@ -1,8 +1,4 @@
-# Student Exam System
-
-## Overview
-
-Welcome to the Student Exam System! This project is designed to streamline the process of managing student exams, from creating exams to recording student responses and generating results. This system aims to provide an efficient and user-friendly interface for both administrators and students. This project showcases my skills in full-stack development using modern technologies and best practices.
+# Student Exam System - Neebal Gurukul
 
 ## Purpose
 
